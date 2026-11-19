@@ -1,0 +1,9 @@
+# Ambiente virtual e cache Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de ambiente sensíveis (nunca subir chaves de API)
+.env
